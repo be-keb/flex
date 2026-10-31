@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#demo">Demo</a> &bull;
-  <a href="#Components">Components used</a> &bull;
+  <a href="#components">Components used</a> &bull;
   <a href="#license">License</a>
 </p>
 
