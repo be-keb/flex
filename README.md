@@ -11,7 +11,6 @@
 <p align="center">
   <a href="#demo">Demo</a> &bull;
   <a href="#components">Components used</a> &bull;
-  <a href="#license">License</a>
 </p>
 
 ---
@@ -38,8 +37,3 @@ Flex is a interactive lamp built for a @hackclub fallen project. Basically the l
 9. Regulated 5V 2A AC/DC power adapter
 10. Diffuser and Enclosure Materials
 
-
-```
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
