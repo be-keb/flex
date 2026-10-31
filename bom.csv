@@ -10,4 +10,5 @@ Male-to-male jumper wires,1,pack,250,0.89,Budget estimate for a small pack; loca
 "500–1000 µF capacitor, ≥6.3 V",1,pc,80,0.29,Budget estimate for a suitable electrolytic capacitor,Recommended
 Diffuser material,1,piece,250,0.89,Budget estimate using a small piece of translucent plastic,Enclosure / appearance
 Enclosure materials,1,set,500,1.79,Budget estimate for simple DIY materials; design-dependent,Enclosure / appearance
-ESTIMATED TOTAL,,,3260,11.64,"Planning estimate only; excludes delivery, tax, tools, and any separate LED power supply",Total
+Regulated 5V 2A AC/DC power adapter,1,pc,350,1.25,"Listed at Techzuu for Rs 350; output 5V DC, 2A; checked 2026-10-31. https://techzuu.com/shop/dc-5-volt-2-amp-adapter-for-all-android-tv-box/",Power
+ESTIMATED TOTAL,,,3610,12.92,"Planning estimate only; excludes delivery, tax, tools, and any other supplies",Total
