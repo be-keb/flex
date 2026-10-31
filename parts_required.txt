@@ -1,1 +1,5 @@
-
+1. ESP-32 Development board
+2. HC-SR04 ultrasonic sensor
+3. Eight Pixel WS2812B LED ring
+4. Breadboard and Jumper Wires
+5. Diffuser and Enclosure Materials
