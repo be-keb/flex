@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "author": "FLIP prototype",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 23.9, "left": 23.8, "attrs": {} },
+    {
+      "type": "wokwi-hc-sr04",
+      "id": "sonar",
+      "top": 10,
+      "left": 300,
+      "attrs": { "distance": "40" }
+    },
+    {
+      "type": "wokwi-led-ring",
+      "id": "ring",
+      "top": 170,
+      "left": 300,
+      "attrs": { "pixels": "8" }
+    }
+  ],
+  "connections": [
+    [ "esp:D5", "sonar:TRIG", "green", [] ],
+    [ "esp:D18", "sonar:ECHO", "blue", [] ],
+    [ "esp:VIN", "sonar:VCC", "red", [] ],
+    [ "esp:GND.1", "sonar:GND", "black", [] ],
+    [ "esp:D4", "ring:DIN", "green", [] ],
+    [ "esp:VIN", "ring:VCC", "red", [] ],
+    [ "esp:GND.2", "ring:GND", "black", [] ]
+  ],
+  "dependencies": {}
+}
