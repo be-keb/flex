@@ -6,4 +6,5 @@
 6. Male to Male Jumper wires
 7. One 330 or 470 ohm resistor
 8. One 500–1000µF capacitor, rated at least 6.3V
-9. Diffuser and Enclosure Materials
+9. 5 V supply rated for at least 1 A
+10. Diffuser and Enclosure Materials
