@@ -1,1 +1,13 @@
-
+Item,Qty,Unit,Estimated unit cost (PKR),Estimated unit cost (USD),Cost basis,Required
+ESP32 development board,1,pc,1200,4.29,"Listed Pakistan price approx. PKR 1,100–1,750; estimate uses 1,200",Core electronics
+HC-SR04 ultrasonic sensor,1,pc,220,0.79,Listed Pakistan prices approx. PKR 190–260,Core electronics
+WS2812B 8-pixel LED ring,1,pc,450,1.61,Budget estimate; exact local listing varies,Core electronics
+Breadboard,1,pc,280,1.0,Listed Pakistan price approx. PKR 250–280,Core electronics
+1 kΩ resistor,1,pc,10,0.04,Small-component estimate; often sold in packs,Core electronics
+2 kΩ resistor,1,pc,10,0.04,Small-component estimate; often sold in packs,Core electronics
+Male-to-male jumper wires,1,pack,250,0.89,Budget estimate for a small pack; local prices vary,Core electronics
+330 Ω or 470 Ω resistor,1,pc,10,0.04,Small-component estimate; often sold in packs,Recommended
+"500–1000 µF capacitor, ≥6.3 V",1,pc,80,0.29,Budget estimate for a suitable electrolytic capacitor,Recommended
+Diffuser material,1,piece,250,0.89,Budget estimate using a small piece of translucent plastic,Enclosure / appearance
+Enclosure materials,1,set,500,1.79,Budget estimate for simple DIY materials; design-dependent,Enclosure / appearance
+ESTIMATED TOTAL,,,3260,11.64,"Planning estimate only; excludes delivery, tax, tools, and any separate LED power supply",Total
